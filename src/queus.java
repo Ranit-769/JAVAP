@@ -115,6 +115,7 @@ public class queus {
         q.add(2);
         q.add(3);
 //        System.out.println(q.dequeue());
+        System.out.println();
         q.add(8);
         q.add(9);
        while(!q.isEmpty()){
